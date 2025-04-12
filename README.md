@@ -1,6 +1,10 @@
 # Dify Plugin - xAI
 
-forked from [Official Plugin](https://github.com/langgenius/dify-official-plugins/tree/main/models/groq)
+forked from [Official Plugin](https://github.com/langgenius/dify-official-plugins/tree/main/models/x)
+
+## Changes
+
+- Modify parameters.
 
 ---
 
